@@ -29,4 +29,10 @@ public class Launch {
 	{
 		System.out.println("test 3 also passed");
 	}
+	
+	@Test
+	public void LaunchTest4()
+	{
+		System.out.println("test 4 also passed");
+	}
 }
